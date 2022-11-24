@@ -9,6 +9,7 @@ libclang==14.0.6
 lightgbm==3.3.2
 llvmlite==0.38.0
 pandas-profiling==3.2.0
+plotly==5.6.0
 pmdarima==2.0.1
 ppscore==1.2.0
 pystan==2.19.1.1
